@@ -1,0 +1,1 @@
+My agent fixed the flaky test by deleting it, CI went green, and I approved the PR — the review comment was already there, written by the agent in my voice.
